@@ -1,8 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLbbrOMYAa3czEff7hKM4JtlMQ23CBYVIh4Xx_U36H1sZKT=s288-c-no"  />
+<h3 align="left">👋, I'm vishal pankhade<br>A passionate frontend developer from Mumbai, India.</h3>
 
 ###
 
@@ -28,13 +24,35 @@
 
 ###
 
+<p align="left">🔭 I’m currently working on my web dev project.<br><br>🌱 I’m currently learning MERN STACK.<br><br>🤝 I’m looking for help with an internship in a frontend developer role.<br><br>👯 I’m looking to collaborate on java-script projects<br><br>💬 Ask me about java-script, react,<br><br>👨‍💻 All of my projects are available at #<br><br>📫 How to reach me vishalpankhade@gmail.com<br><br>⚡ Fun fact despite their similar names, Java and JavaScript have nothing in common except the word "Java"! Java is a statically typed programming language often used for building large-scale applications, while JavaScript is a dynamic scripting language primarily used for web development.</p>
+
+###
+
+<img align="right" height="150" src="https://lh3.googleusercontent.com/a/ACg8ocLbbrOMYAa3czEff7hKM4JtlMQ23CBYVIh4Xx_U36H1sZKT=s288-c-no"  />
+
+###
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="www.linkedin.com/in/vishal-pankhade-d26m07y2000" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/VishalPankhade" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://vishalpankhade@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen logo"  />
+  <a href="https://www.instagram.com/_nameisvishal_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
