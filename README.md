@@ -1,4 +1,4 @@
-<h3 align="left">👋, I'm vishal pankhade<br>A passionate frontend developer from Mumbai, India.</h3>
+<h2 align="left">👋, I'm vishal pankhade<br>A passionate frontend developer from Mumbai, India.</h2>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my web dev project.<br><br>🌱 I’m currently learning MERN STACK.<br><br>🤝 I’m looking for help with an internship in a frontend developer role.<br><br>👯 I’m looking to collaborate on java-script projects<br><br>💬 Ask me about java-script, react,<br><br>👨‍💻 All of my projects are available at #<br><br>📫 How to reach me vishalpankhade@gmail.com<br><br>⚡ Fun fact despite their similar names, Java and JavaScript have nothing in common except the word "Java"! Java is a statically typed programming language often used for building large-scale applications, while JavaScript is a dynamic scripting language primarily used for web development.</p>
+<h3 align="left">🔭 I’m currently working on my web dev project.<br><br>🌱 I’m currently learning MERN STACK.<br><br>🤝 I’m looking for help with an internship in a frontend developer role.<br><br>👯 I’m looking to collaborate on java-script projects<br><br>💬 Ask me about java-script, react,<br><br>👨‍💻 All of my projects are available at #<br><br>📫 How to reach me vishalpankhade@gmail.com<br><br>⚡ Fun fact despite their similar names, Java and JavaScript have nothing in common except the word "Java"! Java is a statically typed programming language often used for building large-scale applications, while JavaScript is a dynamic scripting language primarily used for web development.</h3>
 
 ###
 
